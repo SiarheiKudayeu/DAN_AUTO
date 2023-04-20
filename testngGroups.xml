@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Groups Suite">
+    <test name="Groups">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.assertions.grouping.Ex2"/>
+            <class name="org.assertions.grouping.Ex3"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTests Suite">
+    <test name="AllTestCases">
+        <classes>
+            <class name="org.assertions.homework.Task1"/>
+            <class name="org.assertions.homework.Task2"/>
+            <class name="org.assertions.homework.Task3"/>
+            <class name="org.assertions.homework.Task4"/>
+            <class name="org.assertions.homework.Task5"/>
+        </classes>
+    </test>
+</suite>

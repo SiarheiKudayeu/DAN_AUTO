@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parrallel Suite" parallel="tests" thread-count="2">
+    <test name="Suite1">
+        <classes>
+            <class name="org.assertions.parallel.Ex2"/>
+            <class name="org.assertions.parallel.Ex3"/>
+        </classes>
+    </test>
+    <test name="Suite2">
+        <classes>
+            <class name="org.assertions.parallel.Ex4"/>
+            <class name="org.assertions.parallel.Ex5"/>
+        </classes>
+    </test>
+</suite>

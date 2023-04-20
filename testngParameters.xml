@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parameters Suite">
+    <parameter name = "browser" value = "chrome"/>
+    <test name="Parameters1">
+        <classes>
+            <class name="org.assertions.parametrisation.Ex2"/>
+        </classes>
+    </test>
+
+<!--    <parameter name = "browser" value = "firefox"/>
+    <test name="Parameters2">
+        <classes>
+            <class name="org.assertions.parametrisation.Ex2"/>
+        </classes>
+    </test>-->
+</suite>

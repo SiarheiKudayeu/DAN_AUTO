@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parrallel Suite" parallel="methods" thread-count="2">
+    <test name="AllTestCases">
+        <classes>
+            <class name="org.assertions.parallel.Ex2"/>
+        </classes>
+    </test>
+</suite>
