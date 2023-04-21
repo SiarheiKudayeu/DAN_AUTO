@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTests Suite" parallel="tests" thread-count="2">
+    <test name="Suite1">
+        <classes>
+            <class name="testng.parallel.Ex1"/>
+            <class name="testng.parallel.Ex2"/>
+        </classes>
+    </test>
+    <test name="Suite2">
+        <classes>
+            <class name="testng.parallel.Ex1"/>
+            <class name="testng.parallel.Ex2"/>
+        </classes>
+    </test>
+</suite>
